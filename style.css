@@ -1,0 +1,44 @@
+#fixedheader{
+  text-align: right;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  padding: 15px;
+  width: 100%;
+  color: blue; 
+  background: none;
+}
+#fixedfooter {
+   position: fixed;
+  bottom: 0px;
+  left: 0px;
+  padding: 15px;
+  width: 100%;
+  color: blue; 
+  background: none;
+  
+}
+
+a{
+  padding: 10px;
+}
+
+#left{
+  float: left;
+}
+#right{
+  float: right;
+}
+#body{
+  margin-top: 40px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+.mic { position: relative; width:500px; height: 50px; margin: 0 auto; }
+.mic input { border:none: background:#fff; display:block; width: 100%; box-sizing: border-box; }
+.mic img { position: absolute; top: 2px; right: 5px }
+
+.gimg{
+  margin-top: 100px;
+  margin-bottom: -50px;
+}
